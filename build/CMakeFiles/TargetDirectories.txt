@@ -1,9 +1,0 @@
-/home/sinm/work/zero/build/CMakeFiles/intrinsics_gen.dir
-/home/sinm/work/zero/build/CMakeFiles/omp_gen.dir
-/home/sinm/work/zero/build/CMakeFiles/acc_gen.dir
-/home/sinm/work/zero/build/CMakeFiles/RISCVTargetParserTableGen.dir
-/home/sinm/work/zero/build/CMakeFiles/edit_cache.dir
-/home/sinm/work/zero/build/CMakeFiles/rebuild_cache.dir
-/home/sinm/work/zero/build/src/CMakeFiles/calc.dir
-/home/sinm/work/zero/build/src/CMakeFiles/edit_cache.dir
-/home/sinm/work/zero/build/src/CMakeFiles/rebuild_cache.dir
