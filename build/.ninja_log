@@ -1,0 +1,7 @@
+# ninja log v5
+4	3438	1744886031822329333	src/CMakeFiles/calc.dir/lexer.cpp.o	763394a9fac3d588
+7	3500	1744886031886341903	src/CMakeFiles/calc.dir/parser.cpp.o	6e296138e2d0e990
+10	3701	1744886032086381154	src/CMakeFiles/calc.dir/sema.cpp.o	b12f4fc160bf4596
+0	4493	1744886032869534678	src/CMakeFiles/calc.dir/calc.cpp.o	92f8f34233f02956
+2	8119	1744886036507245177	src/CMakeFiles/calc.dir/codegen.cpp.o	c4344765ec5f337f
+8120	9611	1744886037997535064	src/calc	7e27a19e3c917cf7
